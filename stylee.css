@@ -188,6 +188,16 @@ h2 {
     color: #fff;
     text-align: center;
 }
+.icons .fa {
+    padding: 15px;
+    color: #fff;
+    width: 60px;
+}
+.ja-link {
+    color: #fff;
+    text-decoration: none;
+}
+
 .fa {
     color: rgb(97, 93, 93);
 }
